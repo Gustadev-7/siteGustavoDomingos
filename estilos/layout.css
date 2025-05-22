@@ -81,13 +81,6 @@ main{
 article p {
     margin-top: 20px;
 }
-
-.vitrin{
-    display: inline;
-    border-radius: 10px;
-    margin-left: 20px;
-    margin-top: 20px;
-}
 /*Estilo para o rodapé*/
 footer{
     background-color: #b49a5c;
